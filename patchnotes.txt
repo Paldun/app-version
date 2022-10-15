@@ -1,2 +1,3 @@
-  - Bekerült az újdonságok gomg.
-  - Magától frissít az újabb verzióra az app.
+Verzió: v1.6
+ - Bekerült az újdonságok gomg.
+ - Magától frissít az újabb verzióra az app.
