@@ -1,0 +1,2 @@
+  - Bekerülte az újdonságok gomg.
+  - Magától frissít au újabb verzióra az app.
