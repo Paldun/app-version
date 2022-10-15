@@ -1,2 +1,2 @@
-  - Bekerülte az újdonságok gomg.
+  - Bekerült az újdonságok gomg.
   - Magától frissít az újabb verzióra az app.
