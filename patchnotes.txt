@@ -4,3 +4,8 @@ Verzió: v1.6
 
 Verzió: v1.7
  - Az updater kijavításra került.
+
+Verzió: v1.8
+ - Név változás: Keresés -> Jelszavak
+ - Hibák kijavítva!
+ - A jelszavakat lehet szerkeszteni!
